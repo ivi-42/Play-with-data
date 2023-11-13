@@ -56,8 +56,8 @@ This script analyzes and classifies posts from Hacker News (HN) into 'compliant'
 - Model interpretability for decision transparency.
 
 ### Applications
-- Useful for content moderation on platforms like Hacker News.
 - Insights into content quality and user interactions.
+- Ability to link semantic rules to their "manifestation" in online communities, better understanding of social dynamics
 
 ### Output Details
 - **Compliance Status**: Whether a post is compliant according to the model.
