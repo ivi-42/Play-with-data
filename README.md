@@ -7,6 +7,7 @@ This script analyzes and classifies posts from Hacker News (HN) into 'compliant'
 
 This is still a heavy workaround with many parts that are merely a generalization of a complex topic as human behaviour (https://www.youtube.com/watch?v=p0mRIhK9seg)
 
+Use the Google colab to start it in cloud and see the script at work
 ## Key Components
 
 ### Data Fetching and Preprocessing
