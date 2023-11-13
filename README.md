@@ -5,6 +5,8 @@
 ## Overview
 This script analyzes and classifies posts from Hacker News (HN) into 'compliant' and 'non-compliant' categories. It includes data fetching, preprocessing, feature extraction, machine learning model training, and model interpretation.
 
+This is still a heavy workaround with many parts that are merely a generalization of a complex topic as human behaviour (https://www.youtube.com/watch?v=p0mRIhK9seg)
+
 ## Key Components
 
 ### Data Fetching and Preprocessing
@@ -63,4 +65,6 @@ This script analyzes and classifies posts from Hacker News (HN) into 'compliant'
 - **Compliance Status**: Whether a post is compliant according to the model.
 - **SHAP Values**: Impact of each feature on the model's output.
 - **Anchor Text Explanation**: Influential parts of text in model decision for a specific instance.
+
+
 
