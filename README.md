@@ -7,7 +7,9 @@ This script analyzes and classifies posts from Hacker News (HN) into 'compliant'
 
 This is still a heavy workaround with many parts that are merely a generalization of a complex topic as human behaviour (https://www.youtube.com/watch?v=p0mRIhK9seg)
 
-Use the Google colab to start it in cloud and see the script at work
+Use the Google colab to start it in cloud and see the script at work.
+
+There are also 2 pdf in this repository, one called ai_basic_fast.pdf and one gianni.pojani_ai_basics.pdf. The first, is a digestible overview of the algorithms used, the second is a more verbos writing over the research done and the direction to take, with particular focus on experimentation and functionality.
 ## Key Components
 
 ### Data Fetching and Preprocessing
